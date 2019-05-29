@@ -8,6 +8,7 @@ yarn.lock
 next
 .env
 variables.env
+variables.env.sample
 
 
 # Build directory
